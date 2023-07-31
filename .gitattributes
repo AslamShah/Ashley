@@ -1,0 +1,2 @@
+<files[[:space:]]to[[:space:]]be[[:space:]]tracked> filter=lfs diff=lfs merge=lfs -text
+*.mp4,[[:space:]]*.mov,[[:space:]]*.psd filter=lfs diff=lfs merge=lfs -text
